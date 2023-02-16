@@ -1,5 +1,5 @@
-# Hi there 👋 
-😄 I am a Fullstack Software Engineer with a passion for music, games, dark themes, and sleep.<br>📬 Shoot me an [email](mailto:justindjsuh@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/justin-suh98/)!
+# Hi there, I'm Justin 👋 
+😄 I'm a Fullstack Software Engineer with a passion for music, games, dark themes, and sleep.<br>📬 Shoot me an [email](mailto:justindjsuh@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/justin-suh98/)!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/justin-suh98/) 
