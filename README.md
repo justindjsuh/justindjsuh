@@ -1,6 +1,4 @@
 # Hi there 👋 
-
-## About Me:
 😄 I am a Fullstack Software Engineer with a passion for music, games, dark themes, and sleep.<br>📬 Shoot me an [email](mailto:justindjsuh@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/justin-suh98/)!
 
 
